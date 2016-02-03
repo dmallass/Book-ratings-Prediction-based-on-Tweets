@@ -1,4 +1,4 @@
-Scholastic	Scholastic Librarians
+﻿Scholastic	Scholastic Librarians
 Scholastic	Scholastic Art & Writing Awards
 Scholastic	National Council for Teachers of English
 Scholastic	Scholastic Australia
@@ -98,7 +98,7 @@ National Geographic Learning	National Geographic Explorer Magazines [Official]
 National Geographic Learning	International Reading Association
 National Geographic Learning	Irene C. Fountas & Gay Su Pinnell
 National Geographic Learning	Shelby County School System
-Schwab Foundation for Social Entrepreneurship	Nalaga'at Center - מרכז נא לגעת
+Schwab Foundation for Social Entrepreneurship	Nalaga'at Center - ???? ?? ????
 Schwab Foundation for Social Entrepreneurship	Operation ASHA
 Schwab Foundation for Social Entrepreneurship	Groupe Associatif Siel Bleu
 Schwab Foundation for Social Entrepreneurship	Innovations in Healthcare
@@ -129,7 +129,7 @@ World Health Summit	ReWalk - More Than Walking
 World Health Summit	Handelsblatt Global Edition
 World Health Summit	The Global Fund to Fight AIDS, Tuberculosis and Malaria
 World Health Summit	Stiftung Charité
-World Health Summit	מינהל סחר חוץ - משרד הכלכלה
+World Health Summit	????? ??? ??? - ???? ??????
 World Health Summit	EyeFocus Accelerator
 World Health Summit	viomedo
 World Health Summit	German Accelerator
@@ -525,7 +525,7 @@ EFA Report UNESCO	World Bank Indonesia
 EFA Report UNESCO	Volunteers
 EFA Report UNESCO	World Bank Middle East & North Africa
 EFA Report UNESCO	Save the Children India
-EFA Report UNESCO	Elif Şafak / Elif Shafak
+EFA Report UNESCO	Elif Safak / Elif Shafak
 EFA Report UNESCO	DonorsChoose.org
 EFA Report UNESCO	World Economic Forum
 EFA Report UNESCO	USAID - US Agency for International Development
@@ -861,15 +861,15 @@ PSY	Tablo
 PSY	KANG SEUNG YOON
 PSY	iKON
 PSY	BIGBANG
-PSY	Ku Hye Sun (구혜선)
-PSY	세븐 SE7EN
+PSY	Ku Hye Sun (???)
+PSY	?? SE7EN
 PSY	G-DRAGON
 PSY	Akdong Musician
 PSY	WINNER
 PSY	EPIK HIGH
 PSY	Cruciani
 PSY	YG-Family
-PSY	LEE HI (이하이)
+PSY	LEE HI (???)
 PSY	WIN : Who Is Next
 PSY	TAEYANG
 PSY	Seungri
@@ -880,7 +880,7 @@ Friends of the Global Fund Africa	Oscar N. Onyema
 Friends of the Global Fund Africa	Chevron
 Friends of the Global Fund Africa	Malaria Free Nigeria
 Friends of the Global Fund Africa	Levo League
-Friends of the Global Fund Africa	Al Jazeera Channel - قناة الجزيرة الفضائية
+Friends of the Global Fund Africa	Al Jazeera Channel - ???? ??????? ????????
 Friends of the Global Fund Africa	Association for Reproductive & Family Health-ARFH
 Friends of the Global Fund Africa	Channels TV
 Friends of the Global Fund Africa	BBC News
@@ -943,7 +943,7 @@ Catapult	HeForShe
 Catapult	Operation Noah
 Catapult	SisterSong
 Catapult	Women of Silicon Valley
-Catapult	My Stealthy Freedom آزادی یواشکی زنان در ایران
+Catapult	My Stealthy Freedom ????? ?????? ???? ?? ?????
 Catapult	Broadly
 Catapult	Family Planning 2020
 Catapult	JASS
@@ -954,7 +954,7 @@ Power the World	Global Alliance for Clean Cookstoves
 Power the World	Linkin Park
 ASUS	Moods of Norway
 ASUS	ASUS CampusLife
-ASUS	ASUS Россия
+ASUS	ASUS ??????
 ASUS	ASUS Component Indonesia
 ASUS	ASUS Republic of Gamers Vietnam
 ASUS	ASUS Republic of Gamers CZ
@@ -967,7 +967,7 @@ ASUS	ASUS Portugal
 ASUS	ASUS ROG Nordic
 ASUS	ASUS Romania
 ASUS	ASUS Kenya
-ASUS	ASUS Latvijā
+ASUS	ASUS Latvija
 ASUS	ASUS Republic of Gamers Malaysia
 ASUS	ASUS Eesti
 ASUS	ASUS Danmark
@@ -1174,7 +1174,7 @@ World Animal Protection	World Animal Protection New Zealand
 World Animal Protection	Richie Kul
 World Animal Protection	Dannii Minogue
 World Animal Protection	Save the Dogs and other Animals
-World Animal Protection	World Animal Protection Thailand องค์กรพิทักษ์สัตว์แห่งโลก
+World Animal Protection	World Animal Protection Thailand ?????????????????????????
 World Animal Protection	Kristin Chenoweth
 World Animal Protection	Animal Wellness Magazine
 World Animal Protection	Evanna Lynch
@@ -1926,7 +1926,7 @@ KA Lite	Creative Commons
 KA Lite	Open educational resources
 KA Lite	Global Campaign for Education
 KA Lite	Foundation for Learning Equality
-KA Lite	Al Jazeera Channel - قناة الجزيرة الفضائية
+KA Lite	Al Jazeera Channel - ???? ??????? ????????
 KA Lite	Bit Center Tijuana
 KA Lite	Creative Commons
 KA Lite	Qatar Foundation
@@ -2006,7 +2006,7 @@ CGAP - Consultative Group to Assist the Poor	Foreign Affairs
 CGAP - Consultative Group to Assist the Poor	UNICEF
 CGAP - Consultative Group to Assist the Poor	Tigo Ghana
 CGAP - Consultative Group to Assist the Poor	Fundación Capital
-CGAP - Consultative Group to Assist the Poor	مركز الأمم المتحدة للإعلام بتونس
+CGAP - Consultative Group to Assist the Poor	???? ????? ??????? ??????? ?????
 CGAP - Consultative Group to Assist the Poor	Global Communities
 CGAP - Consultative Group to Assist the Poor	iHub
 CGAP - Consultative Group to Assist the Poor	INDEX: Design to Improve Life
@@ -2014,7 +2014,7 @@ CGAP - Consultative Group to Assist the Poor	Wasil Foundation
 CGAP - Consultative Group to Assist the Poor	NetHope
 CGAP - Consultative Group to Assist the Poor	Photo Contest Insider
 CGAP - Consultative Group to Assist the Poor	World Bank Publications
-CGAP - Consultative Group to Assist the Poor	Kompanion Financial Group/Финансовая Группа Компаньон
+CGAP - Consultative Group to Assist the Poor	Kompanion Financial Group/?????????? ?????? ?????????
 CGAP - Consultative Group to Assist the Poor	allAfrica.com
 CGAP - Consultative Group to Assist the Poor	Stanford Social Innovation Review
 CGAP - Consultative Group to Assist the Poor	UNEP
@@ -2101,7 +2101,7 @@ End Polio Now	Daily Development
 End Polio Now	AOL
 End Polio Now	Sandra Rotman Centre
 End Polio Now	Global Poverty Project
-End Polio Now	Donnie Yen-甄子丹 Official
+End Polio Now	Donnie Yen-??? Official
 End Polio Now	Tom Daley
 End Polio Now	Shot@Life
 End Polio Now	Pau Gasol
@@ -2681,7 +2681,7 @@ Sandra Rotman Centre	UNICEF
 Sandra Rotman Centre	The Grandest Challenge
 Sandra Rotman Centre	World Health Organization (WHO)
 Sandra Rotman Centre	Desmond Tutu HIV Foundation
-Sandra Rotman Centre	Protect Your Child - احمي طفلك
+Sandra Rotman Centre	Protect Your Child - ???? ????
 Sandra Rotman Centre	The Desmond Tutu HIV Foundation Youth Centre
 Sandra Rotman Centre	ASAPRECAN
 Sandra Rotman Centre	USAID - US Agency for International Development
@@ -3235,7 +3235,7 @@ UN Radio	UN Human Rights Council
 UN Radio	United Nations News Centre
 UN Radio	World Food Programme
 UN Radio	UN Web TV
-UN Radio	Unsmil بعثة الأمم المتحدة للدعم في ليبيا
+UN Radio	Unsmil ???? ????? ??????? ????? ?? ?????
 UN Radio	UNMEER
 UN Radio	International Atomic Energy Agency (IAEA)
 UN Radio	UN - OHRLLS
@@ -3570,7 +3570,7 @@ Gavi, the Vaccine Alliance	UNITAID
 Gavi, the Vaccine Alliance	UNICEF UK
 Gavi, the Vaccine Alliance	RESULTS AU
 Gavi, the Vaccine Alliance	WHO
-Gavi, the Vaccine Alliance	公益財団法人日本ユニセフ協会
+Gavi, the Vaccine Alliance	??????????????
 Gavi, the Vaccine Alliance	Aeras
 Gavi, the Vaccine Alliance	Better Immunization Data Initiative
 Gavi, the Vaccine Alliance	Global Health Strategies
@@ -3768,7 +3768,7 @@ World Health Organization (WHO)	World Health Organization Mongolia
 World Health Organization (WHO)	International Committee of the Red Cross
 World Health Organization (WHO)	World Health Organization - occupied Palestinian territory
 World Health Organization (WHO)	OPS/OMS Haïti
-World Health Organization (WHO)	الأمم المتحدة بالعربية
+World Health Organization (WHO)	????? ??????? ????????
 World Health Organization (WHO)	World Health Organization, Uganda
 World Health Organization (WHO)	Organisation des Nations Unies (ONU)
 World Health Organization (WHO)	OPS/OMS Colombia - PAHO/WHO Colombia
@@ -3779,8 +3779,8 @@ World Health Organization (WHO)	World Health Organization South-East Asia Region
 World Health Organization (WHO)	WHO - Republic of South Sudan
 World Health Organization (WHO)	Naciones Unidas
 World Health Organization (WHO)	World Health Organization (WHO) Country Office in Uzbekistan
-World Health Organization (WHO)	Организация Объединенных Наций
-World Health Organization (WHO)	منظمة الصحة العالمية - الأرض الفلسطينية المحتلة
+World Health Organization (WHO)	??????????? ???????????? ?????
+World Health Organization (WHO)	????? ????? ???????? - ????? ?????????? ???????
 World Health Organization (WHO)	World Health Organization Namibia
 World Health Organization (WHO)	OPS-OMS-Paraguay
 World Health Organization (WHO)	World Health Organization - Country Office in Namibia
@@ -4169,7 +4169,7 @@ Girl Effect	Lynne Featherstone
 Girl Effect	Women Deliver
 Girl Effect	Shanti Uganda
 UNICEF USA	Together for Girls
-UNICEF USA	Unicef Israel - יוניסף ישראל
+UNICEF USA	Unicef Israel - ?????? ?????
 UNICEF USA	Kimberly-Clark Corporation (United States)
 UNICEF USA	UNICEF Guatemala
 UNICEF USA	Give THANKs - Typhoon Haiyan Action Network for Kids
@@ -4185,7 +4185,7 @@ UNICEF USA	Unicef Somalia
 UNICEF USA	Unicef State of Palestine
 UNICEF USA	UPS
 UNICEF USA	UNICEF Iran
-UNICEF USA	يونيسف – اليمن UNICEF Yemen
+UNICEF USA	?????? – ????? UNICEF Yemen
 UNICEF USA	CAST Los Angeles
 UNICEF USA	UNICEF Central African Republic
 UNICEF USA	Unicef Sudan
@@ -4223,7 +4223,7 @@ UNICEF Haiti	UNICEF Guinea
 UNICEF Haiti	Unicef Burundi
 UNICEF Haiti	UN Women
 UNICEF Haiti	UNICEF Luxembourg
-UNICEF Haiti	UNICEF Viet Nam - Quỹ Nhi Đồng Liên Hợp Quốc
+UNICEF Haiti	UNICEF Viet Nam - Qu? Nhi Ð?ng Liên H?p Qu?c
 UNICEF Haiti	Unicef Rwanda
 UNICEF Haiti	Unicef Paraguay
 UNICEF Haiti	Contre la Pauvreté Extrême
@@ -4286,37 +4286,37 @@ Science	The Reptile King
 Science	EurekAlert!
 Science	Geology Page
 Science	Astronomy Picture of the Day (APOD)
-Samuel Eto'o	Футбольный клуб Анжи
+Samuel Eto'o	?????????? ???? ????
 Samuel Eto'o	eFanswer
 EA SPORTS PGA TOUR	U.S. Open Championships
 EA SPORTS PGA TOUR	PGA TOUR
 EA SPORTS PGA TOUR	PGA TOUR Golf Challenge
 EA SPORTS PGA TOUR	EA SPORTS
-公益財団法人日本ユニセフ協会	UNICEF Guinea
-公益財団法人日本ユニセフ協会	UNICEF Mongolia
-公益財団法人日本ユニセフ協会	Unicef Afghanistan
-公益財団法人日本ユニセフ協会	UNICEF Jordan
-公益財団法人日本ユニセフ協会	UNICEF Philippines
-公益財団法人日本ユニセフ協会	Celebrate The Toilet
-公益財団法人日本ユニセフ協会	UNICEF
-公益財団法人日本ユニセフ協会	Unicef Pakistan
-公益財団法人日本ユニセフ協会	UNICEF South Sudan
-公益財団法人日本ユニセフ協会	UNICEF Innovations Lab Kosovo
-公益財団法人日本ユニセフ協会	UNICEF India
-公益財団法人日本ユニセフ協会	Unicef Sierra Leone
-公益財団法人日本ユニセフ協会	国際協力ボランティア
-公益財団法人日本ユニセフ協会	World Toilet Organization
-公益財団法人日本ユニセフ協会	Unicef DR Congo
-公益財団法人日本ユニセフ協会	يونيسف – اليمن UNICEF Yemen
-公益財団法人日本ユニセフ協会	UNICEF Middle East and North Africa
-公益財団法人日本ユニセフ協会	UNICEF Niger
-公益財団法人日本ユニセフ協会	UNICEF-Madagascar
-公益財団法人日本ユニセフ協会	国連広報センター (UNIC Tokyo)
-公益財団法人日本ユニセフ協会	UNICEF Central African Republic
-公益財団法人日本ユニセフ協会	Sanitation and Water for All
-公益財団法人日本ユニセフ協会	ユニセフ「世界手洗いの日」プロジェクト
-公益財団法人日本ユニセフ協会	Unicef Myanmar
-公益財団法人日本ユニセフ協会	Unicef Mali
+??????????????	UNICEF Guinea
+??????????????	UNICEF Mongolia
+??????????????	Unicef Afghanistan
+??????????????	UNICEF Jordan
+??????????????	UNICEF Philippines
+??????????????	Celebrate The Toilet
+??????????????	UNICEF
+??????????????	Unicef Pakistan
+??????????????	UNICEF South Sudan
+??????????????	UNICEF Innovations Lab Kosovo
+??????????????	UNICEF India
+??????????????	Unicef Sierra Leone
+??????????????	??????????
+??????????????	World Toilet Organization
+??????????????	Unicef DR Congo
+??????????????	?????? – ????? UNICEF Yemen
+??????????????	UNICEF Middle East and North Africa
+??????????????	UNICEF Niger
+??????????????	UNICEF-Madagascar
+??????????????	???????? (UNIC Tokyo)
+??????????????	UNICEF Central African Republic
+??????????????	Sanitation and Water for All
+??????????????	???????????????????
+??????????????	Unicef Myanmar
+??????????????	Unicef Mali
 Baker City Rotary Club	MayDay, Inc.
 Baker City Rotary Club	Vals Veggies
 Baker City Rotary Club	Baker City Lions Club
@@ -4424,7 +4424,7 @@ Lenovo	Pandora
 Lenovo	Lenovo Taiwan
 Lenovo	Stuff Magazine UK
 Lenovo	Ashton Kutcher
-Lenovo	Lenovo korea[한국레노버]
+Lenovo	Lenovo korea[?????]
 Lenovo	Lenovo Mobile Indonesia
 Panasonic	Governor Chris Christie
 Panasonic	Ben Folds
@@ -4705,7 +4705,7 @@ UNDP in the Pacific and PNG	UNDP Mongolia
 UNDP in the Pacific and PNG	United Nations Emergency Preparedness & Support Team
 UNDP in the Pacific and PNG	femLINKPACIFIC
 UNDP in the Pacific and PNG	UNDP in Papua New Guinea
-UNDP in the Pacific and PNG	UNDP Việt Nam
+UNDP in the Pacific and PNG	UNDP Vi?t Nam
 UNDP in the Pacific and PNG	UN Women Pacific
 UNDP in the Pacific and PNG	UNDP Lesotho
 UNDP in the Pacific and PNG	Samoa Observer
@@ -5014,22 +5014,22 @@ United Nations in Belarus	United Nations Economic and Social Council
 United Nations in Belarus	WHO Regional Office for Europe
 United Nations in Belarus	United Nations Decade on Biodiversity
 United Nations in Belarus	Helen Clark
-United Nations in Belarus	Минский форум уличных театров
+United Nations in Belarus	??????? ????? ??????? ???????
 United Nations in Belarus	Finnish Embassy Liaison Office in Belarus
 United Nations in Belarus	UPR Info
-United Nations in Belarus	Республиканская Научно-техническая Библиотека
+United Nations in Belarus	??????????????? ??????-??????????? ??????????
 United Nations in Belarus	USAID Belarus
 United Nations in Belarus	United Nations in Ukraine
 United Nations in Belarus	Maria Sharapova
-United Nations in Belarus	МВД Республики Беларусь
+United Nations in Belarus	??? ?????????? ????????
 United Nations in Belarus	Sanaka Samarasinha
-United Nations in Belarus	"Позитивное движение"
+United Nations in Belarus	"?????????? ????????"
 United Nations in Belarus	Emma Watson
 United Nations in Belarus	Office of the UN Secretary-General's Envoy on Youth
 United Nations in Belarus	UNAIDS-Country Office in Belarus
-United Nations in Belarus	Белорусское Общество Красного Креста (БОКК) / The Belarus Red Cross Society
+United Nations in Belarus	??????????? ???????? ???????? ?????? (????) / The Belarus Red Cross Society
 United Nations in Belarus	UNDP in Belarus
-United Nations in Belarus	Зянон Пазьняк
+United Nations in Belarus	????? ???????
 United Nations in Belarus	Earth Day Network
 United Nations in Belarus	Humans of MY World
 United Nations in Belarus	UNICEF Belarus
@@ -5042,7 +5042,7 @@ Beyond Access	Ura READ Center
 Beyond Access	Social Innovation Camp
 Beyond Access	Librarianship in the South
 Beyond Access	Telecentre.org
-Beyond Access	Глобални Библиотеки
+Beyond Access	???????? ??????????
 Beyond Access	Biblioteca Nacional de Uruguay
 Beyond Access	Sistema Nacional de Bibliotecas del Perú
 Beyond Access	Seguro Te Conectás
@@ -5209,7 +5209,7 @@ Vox	Eater
 Vox	All In with Chris Hayes
 Vox	Ezra Klein
 Close the Global Gender Gap	World Economic Forum
-Grand Challenges Canada	社企流 Social Enterprise Insights
+Grand Challenges Canada	??? Social Enterprise Insights
 Grand Challenges Canada	Farm Radio International - Radios Rurales Internationales
 Grand Challenges Canada	FREO2
 Grand Challenges Canada	Gavi, the Vaccine Alliance
@@ -5273,16 +5273,16 @@ The Global Fund for Women	The Asian-Pacific Resource & Research Centre for Women
 The Global Fund for Women	EDWON -- Empower Dalit Women of Nepal
 The Global Fund for Women	Reuters
 The Global Fund for Women	National Female Condom Coalition
-The Global Fund for Women	Kadının İnsan Hakları-Yeni Çözümler Derneği
+The Global Fund for Women	Kadinin Insan Haklari-Yeni Çözümler Dernegi
 The Global Fund for Women	Shan Women's Action Network (SWAN)
 The Global Fund for Women	United Nations Foundation
 The Global Fund for Women	Urgent Action Fund
 The Global Fund for Women	Viva la Feminista
-The Global Fund for Women	المركز المصرى لحقوق المرأة
+The Global Fund for Women	?????? ?????? ????? ??????
 The Global Fund for Women	Não Me Calo - I Will Not Shut Up
 The Global Fund for Women	Women's eNews
 The Global Fund for Women	YourLifeCom
-The Global Fund for Women	Український Жіночий Фонд
+The Global Fund for Women	??????????? ??????? ????
 The Global Fund for Women	Bishkek Feminist Collective SQ
 AGRA Alliance	The Petchey Academy
 AGRA Alliance	DStv
@@ -5342,7 +5342,7 @@ Acer	Acer Philippines
 Acer	Acer UK
 Acer	Acer India
 Acer	Acer America Latina
-Acer	Acer Việt Nam
+Acer	Acer Vi?t Nam
 Acer	Acer Ecuador
 Acer	The Olympic Games
 Acer	Youth Olympic Games
@@ -5427,7 +5427,7 @@ CityClub Seattle	Social Justice Fund NW
 CityClub Seattle	Mariachi Huenachi
 CityClub Seattle	Seattle Night Out
 UNICEF UK	Unicef Burundi
-UNICEF UK	يونيسف – اليمن UNICEF Yemen
+UNICEF UK	?????? – ????? UNICEF Yemen
 UNICEF UK	Unicef CHAD
 UNICEF UK	UNICEF Jordan
 UNICEF UK	UNICEFinnovation
